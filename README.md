@@ -1,4 +1,4 @@
-[![ProfileBanner](https://github.com/Davekibh/Davekibh/blob/main/Images/Banner%20Image.png)](https://chaitanya988.github.io)
+[![ProfileBanner](https://github.com/Davekibh/Davekibh/blob/main/Images/B20Image.png)](https://chaitanya988.github.io)
 
 ### About me🧑:
 I am Computer Engineering student and a Certified Python Developer by CCA(Cambridge Certification Authority).<br/>
